@@ -25,12 +25,19 @@ Extract the contents and move the CSV file here:
 
 Online-Fraud-Payment-Detector/
 ├── PS_20174392719_1491204439457_log.csv  ✅ <-- Required
+
 ├── app.py
+
 ├── train_model.py
+
 ├── fraud_model.pkl
+
 ├── scaler.pkl
+
 ├── templates/
+
 └── static/
+
 🧠 Features Used
 Feature Name     	Description
 step	            Hour of transaction from start of simulation
