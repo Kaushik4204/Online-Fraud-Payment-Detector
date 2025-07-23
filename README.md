@@ -37,7 +37,9 @@ Online-Fraud-Payment-Detector/
 
 ├── templates/
 
-└── static/
+└── index.html
+
+├── static/
 
 🧠 Features Used
 Feature Name     	Description
