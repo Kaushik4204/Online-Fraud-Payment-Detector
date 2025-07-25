@@ -63,8 +63,9 @@ Training a Random Forest Classifier
 Saving the model and scaler using joblib
 
 To train via:
-bash
+```bash
 python train_model.py
+```
 
 🌐 Web Interface
 Launch the app via:
